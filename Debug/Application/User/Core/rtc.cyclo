@@ -1,0 +1,3 @@
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:30:6:MX_RTC_Init	4
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:84:6:HAL_RTC_MspInit	3
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:118:6:HAL_RTC_MspDeInit	2

@@ -1,0 +1,11 @@
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:477:13:OnTxTimerLedEvent	1
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:481:13:OnRxTimerLedEvent	1
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:491:13:OnTxData	5
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:462:13:OnTxTimerEvent	1
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:540:13:OnMacProcessNotify	1
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:312:13:OnRxData	10
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:518:13:OnJoinRequest	4
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:376:13:SendTxData	6
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:485:13:OnJoinTimerLedEvent	1
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:211:6:LoRaWAN_Init	1
+/Users/clementcombier/Documents/Workspace/Uni/Cours/Sys embarqués/LoRaWan-E5-Node/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/LoRaWAN/App/lora_app.c:293:6:HAL_GPIO_EXTI_Callback	2
